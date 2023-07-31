@@ -1,4 +1,4 @@
-# College List Creator - A helpful tool for college applicants
+# College List Creator - A tool for college applicants
 ## Students simply enter their information
 ![AddStudentUI](https://github.com/prangas/CollegeListCreator/assets/112739928/f79ca4f4-721d-447a-b70f-c4725474a357)
 ## Then answer a set of questions regarding preferences
